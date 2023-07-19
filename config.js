@@ -12,7 +12,7 @@ global.__filename = function filename(pathURL = import.meta.url, rmPrefix = plat
 const __dirname = global.__dirname(import.meta.url)
 
 //⊱ ━━━━━.⋅ Owner ⋅.━━━━ ⊰
-global.owner = [
+global.owner = ['5493878620372']
   ['59894808483', 'Azami - Creador 🥏', true],
   ['5214531106422'], ['59894808483'], ['593968585383'], ['5492266613038'], ['5492266466080'],
   ['50258115623'], ['573106040746']]  
@@ -119,11 +119,10 @@ global.vs = '1.0.2'
 global.yt = 'https://www.youtube.com/@Azami_19'
 global.ig = 'https://instagram.com/azami.19'
 global.md = 'https://github.com/Undefined17/CuriosityBot-MD'
-global.nn = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU' //Grupo ofc
-global.nnn = 'https://chat.whatsapp.com/J1R402WH1N0Hdl3S0NDEYu' //Curiosity global
+global.nn = 'https://chat.whatsapp.com/KFPC7cygBuyLYjiytn17RO' //Grupo ofc
+global.nnn = 'https://chat.whatsapp.com/HqLLAZytOq21gdUJm8utUX' //Curiosity global
 global.nnnn = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //colaboración multi bots
-global.nnnnn = 'https://chat.whatsapp.com/KlRcEfl8snBEEOA0JXzw5A' //enlace curiosity
-global.nna2 = 'J1R402WH1N0Hdl3S0NDEYu' 
+global.nnnnn = 'https://chat.whatsapp.com/KC7SlmO5x8L704NGQl8cMq' //enlaces anime y hentailobal.nna2 = 'J1R402WH1N0Hdl3S0NDEYu' 
 global.paypal = 'https://paypal.me/Azami19'
 global.rwait = '⌛'
 global.dmoji = '🤭'
